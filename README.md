@@ -38,8 +38,3 @@ Our machine learning model is designed for the classification of Alzheimer's dis
 
 To assess the model's performance, we employ various evaluation metrics, including accuracy, precision, recall, and the Area Under the Curve (AUC) of the Receiver Operating Characteristic (ROC) curve. These metrics provide insights into the model's ability to correctly classify Alzheimer's disease images.
 
-**Conclusion:**
-
-Our machine learning model, a CNN with dropout layers and dense layers, is designed to effectively classify Alzheimer's disease images into four distinct categories. By utilizing image augmentation, optimizing with Adam, and using cross-entropy loss, our model aims to provide accurate and reliable results in the diagnosis of Alzheimer's disease from medical images.
-
-With its ability to automatically learn and extract meaningful features from the data, our model holds great promise for aiding in the early detection and diagnosis of Alzheimer's disease, ultimately contributing to improved patient care and treatment outcomes.
